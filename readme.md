@@ -1,6 +1,6 @@
 # Fabrication for Physical Computing
 | New York City College of Technology | Spring 2018 |
------------------------------------------------------
+|-------------------------------------|-------------|
 
 ## Class site
 https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018
