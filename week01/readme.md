@@ -7,7 +7,9 @@
 + Introductions
 + Syllabus
 
-## 
+## Sketchup Demonstration
 
 ## Homework
 
+Ideas:
+Make a keychain
