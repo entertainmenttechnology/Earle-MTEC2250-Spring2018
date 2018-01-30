@@ -1,6 +1,5 @@
 # Fabrication for Physical Computing
-| New York City College of Technology | Spring 2018 |
-|-------------------------------------|-------------|
+New York City College of Technology Spring 2018
 
 ## Class site
 https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018
@@ -8,7 +7,7 @@ https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018
 ## Instructor
 + Grayson Earle
 + gearle@citytech.cuny.edu
-+ Office Hours: V-203, Tuesday: 12-12:50, Wednesday: 12-2:15, and by appointment
++ Office Hours: V-203, Monday: 12-12:50, Wednesday: 12-2:15, and by appointment
 
 ## Description
 This course is an introduction to digital and physical fabrication processes. We will use Google SketchUp, 3D Printing, and the woodshop to complete a series of small projects. This class combines hands-on exploration with theoretical discussions about tangible media. Quizzes will be held regularly on readings and lecture material. There will be an emphasis in this class on creating playful machines and participating in the open-source community.
