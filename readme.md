@@ -41,3 +41,23 @@ No food. No drink. Keep it in your backpack.
 + Participation/Attendance: 20%
 + Quizzes: 35%
 + Projects: 45%
+
+## Week 1
++ Course Introduction
++ Prepare GitHub accounts
+
+## Week 2
++ SketchUp Demo
++ Homework: Finish keychains
+
+## Week 3
++ Print keychains
++ 
+
+## Week 4
+
+
+
+
+
+
