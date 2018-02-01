@@ -48,11 +48,21 @@ No food. No drink. Keep it in your backpack.
 
 ## Week 2
 + SketchUp Demo
-+ Homework: Finish keychains
+	+ Mouse & Tools
+	+ Drawing shapes
+	+ Extrusion
+	+ Subtraction
+	+ Combining
++ SketchUp Lab
+	+ Explore
+	+ Create a keychain design for printing
++ Homework
+	+ Finish keychains
 
 ## Week 3
 + Print keychains
-+ 
++ SketchUp Lab
+	+ Precision & Measurement
 
 ## Week 4
 
