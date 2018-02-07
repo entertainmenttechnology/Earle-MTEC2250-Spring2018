@@ -68,8 +68,46 @@ No food. No drink. Keep it in your backpack.
 + Woodshop training
 
 ## Week 5
-+ Laser training
++ Laser cutter demo
++ Designing for a laser cutter
++ Create a plan for custom controller
 
-## 
+## Week 6
++ Making things move
++ Motors & Mounting Motors
+https://itp.nyu.edu/fab/intro_fab/week-6-mounting-motors/
+
+## Week 7
++ Fabrication for motors
+
+## Week 8
++ Automating mechanical tasks
++ Playful machine workshop
+
+## Week 9
++ Playful machine workshop
+
+## Week 10
++ Brainstorm: Alternative controllers
++ Designing for controller fabrication
+
+## Week 11
++ Sketch out game cabinets/controllers
+
+## Week 12
++ Fabrication workshop
+
+## Week 13
++ Fabrication workshop
+
+## Week 14
++ Fabrication workshop
+
+## Week 15
++ Final project showcase
+
+
+
+
 
 
