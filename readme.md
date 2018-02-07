@@ -65,9 +65,11 @@ No food. No drink. Keep it in your backpack.
 	+ Precision & Measurement
 
 ## Week 4
++ Woodshop training
 
+## Week 5
++ Laser training
 
-
-
+## 
 
 
