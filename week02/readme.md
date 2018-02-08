@@ -7,7 +7,7 @@
 + [Watson Competition](https://blogs.baruch.cuny.edu/ibmwatson/)
 
 ## Relevant Projects & Artists
-+ eyebeam...
++ [Material Speculation by Morehshin Allahyari](http://www.morehshin.com/material-speculation-isis/)
 
 ## SketchUp
 
