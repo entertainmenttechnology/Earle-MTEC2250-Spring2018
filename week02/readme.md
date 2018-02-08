@@ -43,6 +43,11 @@
 + Tie Fighter
 + X-Wing
 
+## Homework due next week
++ Create a keychain design
+	+ It must fit within 45mm x 45mm x 15mm
+	+ Make sure it has a loop with which to connect a key ring
+
 ## Review
 
 + [Getting Started with SketchUp](https://www.sketchup.com/learn/videos/826)
