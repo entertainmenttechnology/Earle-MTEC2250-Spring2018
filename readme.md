@@ -12,6 +12,17 @@ https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018
 ## Description
 This course is an introduction to digital and physical fabrication processes. We will use Google SketchUp, 3D Printing, and the woodshop to complete a series of small projects. This class combines hands-on exploration with theoretical discussions about tangible media. Quizzes will be held regularly on readings and lecture material. There will be an emphasis in this class on creating playful machines and participating in the open-source community.
 
+Students will be expected to spend at least 2 hours outside of class each week advancing projects and/or responding to reading material. Assignments must be synced to your individual GitHub repository. You must participate in group discussions and critiques in this course.
+
+## Learning Outcomes
++ The ability to design files for 3d printing using SketchUp
++ Troubleshooting 3d print design problems (normals, holes, etc)
++ A basic understanding of the wood shop and how to build simple objects
++ A basic understanding of designing for laser cutting
++ The ability to program microcontrollers for user input and motor control
++ The ability to solder, wire, and enclose projects
++ A general understanding and practice of the iterative design process
+
 ## Recommended Text
 + [Making Things Move](https://books.google.com/books/about/Making_Things_Move_DIY_Mechanisms_for_In.html?id=L71QLEHYE0sC) by Dustyn Roberts 
 + [Getting Started with Arduino, 3rd Edition](https://www.amazon.com/Getting-Started-Arduino-Massimo-Banzi/dp/1449309879) by Massimo Banzi
@@ -27,16 +38,6 @@ You are responsible for reading, understanding and abiding by the NYC College of
 ## Lab Rules
 No food. No drink. Keep it in your backpack.
 
-## Learning Outcomes
-| You will learn how to... | How you will learn it... |
-|--------------------------|--------------------------|
-| Design files for 3D printing using SketchUp | Class demos, assignments |
-| Troubleshoot and utilize 3D prints | Class demos, assignments |
-| Utilize the wood shop | Class demos, assignments |
-| Program micro-controllers | Tests, homework assignments, class demos |
-| Solder, wire, and enclose projects | Class demos, assignments |
-| Learn about the iterative design process | Assignments |
-
 ## Grading
 + Participation/Attendance: 20%
 + Quizzes: 35%
@@ -45,24 +46,23 @@ No food. No drink. Keep it in your backpack.
 ## Week 1
 + Course Introduction
 + Prepare GitHub accounts
++ Introduction to projects involving digital fabrication
 
 ## Week 2
 + SketchUp Demo
-	+ Mouse & Tools
-	+ Drawing shapes
-	+ Extrusion
-	+ Subtraction
-	+ Combining
 + SketchUp Lab
-	+ Explore
-	+ Create a keychain design for printing
-+ Homework
-	+ Finish keychains
+	+ Basic control
+	+ Primitive shapes
+	+ Spheres
+	+ Rotation
+	+ Additive/subtractive design
++ Design a keychain in SketchUp for 3d print
 
 ## Week 3
 + Print keychains
 + SketchUp Lab
 	+ Precision & Measurement
+	+ Designing for existing objects
 
 ## Week 4
 + Woodshop training
@@ -70,15 +70,16 @@ No food. No drink. Keep it in your backpack.
 ## Week 5
 + Laser cutter demo
 + Designing for a laser cutter
-+ Create a plan for custom controller
++ Laser cutter design for custom controllers
 
 ## Week 6
 + Making things move
-+ Motors & Mounting Motors
-https://itp.nyu.edu/fab/intro_fab/week-6-mounting-motors/
++ [Motors & Mounting Motors](https://itp.nyu.edu/fab/intro_fab/week-6-mounting-motors/)
 
 ## Week 7
 + Fabrication for motors
++ Going low-tech: using cheap, found materials
++ Schedule for laser cutter and wood shop for next projects!
 
 ## Week 8
 + Automating mechanical tasks
