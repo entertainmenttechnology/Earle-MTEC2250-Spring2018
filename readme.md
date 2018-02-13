@@ -1,4 +1,5 @@
 # Fabrication for Physical Computing
+MTEC2250 - Section D291
 New York City College of Technology Spring 2018
 
 ## Class site
@@ -43,12 +44,14 @@ No food. No drink. Keep it in your backpack.
 + Quizzes: 35%
 + Projects: 45%
 
-## Week 1
+## Schedule
+
+### Week 1
 + Course Introduction
 + Prepare GitHub accounts
 + Introduction to projects involving digital fabrication
 
-## Week 2
+### Week 2
 + SketchUp Demo
 + SketchUp Lab
 	+ Basic control
@@ -58,57 +61,48 @@ No food. No drink. Keep it in your backpack.
 	+ Additive/subtractive design
 + Design a keychain in SketchUp for 3d print
 
-## Week 3
+### Week 3
 + Print keychains
 + SketchUp Lab
 	+ Precision & Measurement
 	+ Designing for existing objects
 
-## Week 4
+### Week 4
 + Woodshop training
 
-## Week 5
+### Week 5
 + Laser cutter demo
 + Designing for a laser cutter
 + Laser cutter design for custom controllers
 
-## Week 6
+### Week 6
 + Making things move
 + [Motors & Mounting Motors](https://itp.nyu.edu/fab/intro_fab/week-6-mounting-motors/)
 
-## Week 7
+### Week 7
 + Fabrication for motors
 + Going low-tech: using cheap, found materials
 + Schedule for laser cutter and wood shop for next projects!
 
-## Week 8
+### Week 8
 + Automating mechanical tasks
 + Playful machine workshop
 
-## Week 9
+### Week 9
 + Playful machine workshop
 
-## Week 10
+### Week 10
 + Brainstorm: Alternative controllers
 + Designing for controller fabrication
 
-## Week 11
+### Week 11
 + Sketch out game cabinets/controllers
 
-## Week 12
+### Week 12
 + Fabrication workshop
 
-## Week 13
+### Week 13
 + Fabrication workshop
 
-## Week 14
-+ Fabrication workshop
-
-## Week 15
+### Week 14
 + Final project showcase
-
-
-
-
-
-
