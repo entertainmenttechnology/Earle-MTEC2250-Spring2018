@@ -17,23 +17,7 @@
 + [Gabriel Schama](https://www.gabrielschama.com/)
 + [Renee Verhoeven](https://www.reneeverhoeven.nl/anatomy-of-the-hand2/v25123q7rbdk9bzd3rqbfiqhgcn951)
 
-## Discuss
+## Homework
 
-+ [Disobedient Electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
-
-## Project 1: Kinetic Sculpture
-
-Inspired by Zimoun, this project aims to put you in the mindset of creating a moving art object or performative sculpture. Using the Arduino and basic components, create a kinetic sculpture. I recommend watching the reel on Zimoun’s front page for ideas on how certain materials might be used.
-
-+ Permitted Materials
-	+ Arduino or battery
-	+ DC motor(s)
-	+ Servo motor(s)
-	+ Cardboard
-	+ Duct tape
-	+ Hot glue
-	+ String or wire
-	+ Q-tips
-	+ Plastic bottles
-	+ Chop sticks
-	+ Pens or pencils
++ Read [Disobedient Electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf) and write a response to 3 projects that you find interesting. You can be critical of the projects as well. Put your response in a folder in your repo titled "responses" and name the file "disobedient_electronics". It can be a doc, odt, md, or pdf file.
+	+ Pay special attention to the fabrication techniques involved. Does that affect the way you feel about the project? What about the physical form do you find interesting? Did this project generate some new ideas for you?
