@@ -4,7 +4,10 @@
 
 ## Project 1: Chassis
 
-+ We will be building simple electronic vehicles. The first step is to design a chassis that can support two DC motors. 
++ We will be building simple electronic vehicles. The first step is to design a chassis that can support two DC motors.  The goal is to make something that works and that uses as little plastic filament as possible. In other words, keep your design to a minimum.
+
++ This project was inspired by this very simple ["soda can design" robot](http://www.ardumotive.com/can-robot-en.html). I discourage fully enclosed cylinders like this, but there are other aspects of the concept you can draw from. Notice it only has two wheels, and then a fin on the back that acts as a tripod to keep it standing.
+
 + I've included a SketchUp file with a digital replica of the DC motor we are going to use. I suggest you use it to construct your chassis.
 	+ [dc-motor.skp](dc-motor.skp)
 + I've also included a PDF of the motor dimensions if you prefer to operate from that.
@@ -20,6 +23,7 @@
 	+ ![chassis-example1.jpg](chassis-example1.jpg)
 	+ ![chassis-example2.jpg](chassis-example2.jpg)
 	+ ![chassis-example3.jpg](chassis-example3.jpg)
+	+ ![chassis-example4.jpg](chassis-example4.jpg)
 
 
 ### Examples of Arduino (and Raspberry Pi) vehicle chassis
