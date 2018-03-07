@@ -19,6 +19,16 @@
 		+ [8 tips for 3d print designing in SketchUp](https://mastersketchup.com/8-tips-for-3d-printing-with-sketchup/)
 		+ [unofficial sketchup for 3d modeling tutorial](https://www.youtube.com/watch?v=RPQliNKJKto)
 
++ Grading rubric:
+	+ The design shouldn't use a massive amount of filament to print
+	+ The design must take into account the dimensions of the motors
+		+ Optionally, take into account an Arduino and/or breadboard in addition to the motors
+		+ (Notice how my design lets the motors fit snug in the halfpipe)
+	+ You should not include wheels in your final design
+	+ Allow for two motors to be evenly placed in your design
+	+ Model must be solid (ie no "holes")
+	+ Faces/normals should be facing outward
+
 + I made a sketch of a plausible design, which you can feel free to work from:
 	+ ![chassis-example1.jpg](chassis-example1.jpg)
 	+ ![chassis-example2.jpg](chassis-example2.jpg)
