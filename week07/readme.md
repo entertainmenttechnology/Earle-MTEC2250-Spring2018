@@ -18,6 +18,7 @@
 ## Workshop: Playful Machines
 
 + Create H-Bridge setups with Arduino for cars
+	+ [Tutorial here](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-sparkfun-tinker-kit/experiment-9-driving-a-motor-with-an-h-bridge)
 + Coding for DC motors
 
 ## Homework
