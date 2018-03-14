@@ -17,9 +17,10 @@
 
 ## Workshop: Playful Machines
 
+![h_bridge_wiring.png](h_bridge_wiring.png)
+
 + Create H-Bridge setups with Arduino for cars
-	+ ![h_bridge_wiring.png](h_bridge_wiring.png)
-	+ [Link to Tinkercad](https://www.tinkercad.com/things/jBqTudCu17U-funky-albar/editel?tenant=circuits?sharecode=8oEZgopIJF3RrQr2U4DN03NYa0uH93f2zb8JBVOEDVE=)
+	+ [Link to an interactive version of the above image via Tinkercad](https://www.tinkercad.com/things/jBqTudCu17U-funky-albar/editel?tenant=circuits?sharecode=8oEZgopIJF3RrQr2U4DN03NYa0uH93f2zb8JBVOEDVE=)
 	+ Inspired by [this tutorial here](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-sparkfun-tinker-kit/experiment-9-driving-a-motor-with-an-h-bridge)
 + Coding for DC motors
 
