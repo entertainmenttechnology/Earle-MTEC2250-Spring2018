@@ -7,6 +7,8 @@ const int Motor2_A = 8;
 const int Motor2_B = 7;
 const int Motor2_PWM = 9;
 
+int motorSpeed = 255;
+
 void setup() {
   Serial.begin(9600);
 
@@ -26,24 +28,40 @@ void loop() {
 
     int val = Serial.read();
 
+    // if we receive a '0' then brake
     if (val == 0) {
       M1Brake();
       M2Brake();
     }
 
+    // if we receive a '1' then go forward
     if (val == 1) {
-      M1Forward(200);
-      M2Forward(200);
+      M1Forward(motorSpeed);
+      M2Forward(motorSpeed);
     }
 
+    // back
     if (val == 2) {
-      M1Backward(200);
-      M2Backward(200);
+      M1Backward(motorSpeed);
+      M2Backward(motorSpeed);
+    }
+
+    // left
+    if (val == 3) {
+      M1Forward(motorSpeed);
+      M2Backward(motorSpeed);
+    }
+    
+    // right
+    if (val == 4) {
+      M1Backward(motorSpeed);
+      M2Forward(motorSpeed);
     }
   }
 
-  //  M1Forward(200);
-  //  M2Forward(200);
+  // // or automate it
+  //  M1Forward(motorSpeed);
+  //  M2Forward(motorSpeed);
   //
   //  delay(500);
   //
@@ -52,8 +70,8 @@ void loop() {
   //
   //  delay(500);
   //
-  //  M1Backward(200);
-  //  M2Backward(200);
+  //  M1Backward(motorSpeed);
+  //  M2Backward(motorSpeed);
   //
   //  delay(500);
   //

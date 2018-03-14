@@ -26,4 +26,12 @@ void keyPressed() {
   if(key == 's') {
     myPort.write(2); // move forward
   }
+  
+  if(key == 'd') {
+    myPort.write(3); // move left
+  }
+  
+  if(key == 'a') {
+    myPort.write(4); // move right
+  }
 }
