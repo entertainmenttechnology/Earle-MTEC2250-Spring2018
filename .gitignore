@@ -1,3 +1,5 @@
 *.hidden
 *~
 .DS_Store
+._*
+*~.skp
