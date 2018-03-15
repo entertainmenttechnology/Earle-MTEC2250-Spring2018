@@ -44,5 +44,25 @@ void loop() {
     M2Brake();
   
     delay(1000);
+
+    M1Forward(motorSpeed);
+    M2Backward(motorSpeed);
+  
+    delay(1000);
+  
+    M1Brake();
+    M2Brake();
+  
+    delay(1000);
+
+    M1Backward(motorSpeed);
+    M2Forward(motorSpeed);
+  
+    delay(1000);
+  
+    M1Brake();
+    M2Brake();
+  
+    delay(1000);
 }
 
