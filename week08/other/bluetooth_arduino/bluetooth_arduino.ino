@@ -4,8 +4,8 @@
 
 // Rx on the Arduino should be connected to Tx on the BT module
 // and vice versa.
-int bluetoothTx = 3;  
-int bluetoothRx = 2;  
+int bluetoothTx = 2;  
+int bluetoothRx = 3;  
 
 SoftwareSerial bluetooth(bluetoothRx, bluetoothTx);
 
@@ -32,7 +32,7 @@ int incomingByte = 0;
 void loop() {
 
   //bluetooth.println(digitalRead(8));
-  bluetooth.write(digitalRead(8));
+  bluetooth.write(digitalRead(buttonPin));
 
   delay(50);
 }
