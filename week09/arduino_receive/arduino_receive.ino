@@ -9,7 +9,7 @@ SoftwareSerial bluetooth(bluetoothRx, bluetoothTx);
 
 int ledPin = 13;
 
-char inByte = 1; // store data from bluetooth serial
+int inByte = 1; // store data from bluetooth serial
 
 void setup() {
 
@@ -27,6 +27,8 @@ void loop() {
     inByte = bluetooth.read(); // Reads the data from the serial port
 
     Serial.println(inByte);
+
+    
   }
 
   digitalWrite(ledPin, HIGH);

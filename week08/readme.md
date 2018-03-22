@@ -9,13 +9,7 @@
 
 ## SketchUp Lab
 
-+ Make changes to chassis
-
-## Workshop: Playful Machines
-
-+ HC-05 Bluetooth
-	+ Processing -> Arduino via Software Serial connection over Bluetooth
-+ Test drive (time permiting)
++ Make changes to chassis based on 1st round prints
 
 ## Homework
 
