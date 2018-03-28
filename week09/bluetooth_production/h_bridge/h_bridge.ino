@@ -10,7 +10,7 @@ const int Motor2_PWM = 9;
 int motorSpeed = 255;
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(38400);
 
   //set all pins as output
   pinMode(Motor1_A, OUTPUT);
