@@ -23,19 +23,20 @@ void setup() {
 }
 
 void loop() {
-  while (bluetooth.available() > 0) { // Checks whether data is comming from the serial port
-    inByte = bluetooth.read(); // Reads the data from the serial port
-
-    Serial.println(inByte);
-
-    
+  while (Serial.available() > 0) { // Checks whether data is comming from the serial port
+    inByte = Serial.read(); // Reads the data from the serial port
   }
 
-  digitalWrite(ledPin, HIGH);
-  delay(inByte * 2);
-  digitalWrite(ledPin, LOW);
-  delay(inByte * 2);
+//  while (bluetooth.available() > 0) { // Checks whether data is comming from the serial port
+//    inByte = bluetooth.read(); // Reads the data from the serial port
+//
+//    Serial.println(inByte);
+//
+//  }
 
-  
+  digitalWrite(ledPin, HIGH);
+  delay(inByte * 20);
+  digitalWrite(ledPin, LOW);
+  delay(inByte * 20);
 
 }
