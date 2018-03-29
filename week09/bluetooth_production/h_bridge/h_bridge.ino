@@ -1,3 +1,9 @@
+#include <SoftwareSerial.h>
+#define rxPin 3
+#define txPin 2
+SoftwareSerial bluetooth(rxPin, txPin); // RX, TX
+int inByte; 
+
 //define the two direction logic pins and the speed / Motor1_PWM pin
 const int Motor1_A = 5;
 const int Motor1_B = 4;
@@ -10,7 +16,9 @@ const int Motor2_PWM = 9;
 int motorSpeed = 255;
 
 void setup() {
-  Serial.begin(38400);
+  // set up both serials
+  Serial.begin(9600);   
+  bluetooth.begin(9600);
 
   //set all pins as output
   pinMode(Motor1_A, OUTPUT);
@@ -24,9 +32,10 @@ void setup() {
 
 void loop() {
 
-  if (Serial.available() > 0) {
+  while (bluetooth.available()) {
 
-    int val = Serial.read();
+    int val = bluetooth.read();
+    Serial.println(val);  // debug
 
     // if we receive a '0' then brake
     if (val == 0) {

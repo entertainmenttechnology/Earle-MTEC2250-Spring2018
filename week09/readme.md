@@ -4,17 +4,18 @@
 
 ## Motor Coupling
 
++ Group reading of handout
 + [Finished Coupler STL](coupler.stl)
 + [Finished Coupler SKP](coupler.skp)
 
 ## Workshop: Playful Machines
 
-+ HC-05 Bluetooth
++ Rebuild H-Bridge setups
++ HC-05 Bluetooth demo
 	+ Processing -> Arduino via Software Serial connection over Bluetooth
 + Batteries in series
 + Test drive (time permiting)
 
 ## Homework
 
-+ Modify chassis designs
-
++ Bring in two 9volt batteries (rechargable would be amazing!)

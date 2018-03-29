@@ -7,7 +7,7 @@ void setup() {
 
   // remember to set your serial port...
   printArray(Serial.list());
-  myPort = new Serial(this, Serial.list()[2], 38400);
+  myPort = new Serial(this, Serial.list()[1], 9600);
 }
 
 void draw() {
