@@ -18,4 +18,5 @@
 
 ## Homework
 
-+ Bring in two 9volt batteries (rechargable would be amazing!)
++ Work on chassis designs
+	+ Use as little plastic as possible!
