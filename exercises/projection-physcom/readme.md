@@ -24,6 +24,9 @@ Signal flow:
 4. MadMapper
 	+ Allows you to use video sources (including Syphon) and warp them to match the geometry of a room or set of objects.
 
+Wiring:
+![wiring guide](tinkercad1.png)
+
 ## Relevant Work
 
 + WURM
