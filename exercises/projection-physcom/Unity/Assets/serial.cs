@@ -60,7 +60,7 @@ public class serial : MonoBehaviour {
 				if (dev.StartsWith ("/dev/tty.*"))
 					serial_ports.Add (dev);
 				Debug.Log (System.String.Format (dev));
-				if (dev.Contains ("usbmodem"))
+				if (dev.Contains ("usb"))
 					PortName = dev;
 			}
 		}
