@@ -4,7 +4,9 @@
 
 ## Workshop: Playful Machines
 
-+ Wiring 9v DC battery
+Wiring 9v DC battery requires a minor adjustment
+![wiring with battery](wiring_w_battery.png)
+
 + Test drive (time permiting)
 
 ## Exercise(s)
