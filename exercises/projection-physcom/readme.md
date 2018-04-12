@@ -52,7 +52,9 @@ Wiring:
 + [WURM](http://graysonearle.com/wurm/)
 	+ [processing code](processing/wurm_demomode)
 	+ [arduino code](arduino/potentiometer1x)
-
++ Within Unity
+	+ [unity code](Unity/Assets)
+	+ [arduino code](arduino/potentiometer3x-smooth)
 + Alternative sensors
 	+ Gyro/accelerometer
 		+ [unity code](Unity/Assets)
@@ -64,3 +66,11 @@ Wiring:
 
 + Syphon is MacOS only, but there are alternatives such as [Spout](http://spout.zeal.co/) for Windows.
 
+## Putting it all Together
+
++ Knob Mapping
++ Ideas?
+
+## Bonus demo
+
++ Extreme Unity projection mapping
