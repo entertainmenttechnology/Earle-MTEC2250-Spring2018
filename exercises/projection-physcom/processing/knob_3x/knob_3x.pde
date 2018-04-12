@@ -50,9 +50,9 @@ void draw() {
 
         background(0);
         fill(255, 255, 0);
-        arc(width/3, height/3, 200, 200, PI*1.5, PI*1.5+vals[0]);
-        arc(width/2, height/2, 200, 200, PI*1.5, PI*1.5+vals[1]);
-        arc(width*.67, height*.67, 200, 200, PI*1.5, PI*1.5+vals[2]);
+        arc(width/6, height/2, width/3.5, width/3.5, PI*1.5, PI*1.5+vals[0]);
+        arc(width/2, height/2, width/3.5, width/3.5, PI*1.5, PI*1.5+vals[1]);
+        arc(width*.834, height/2, width/3.5, width/3.5, PI*1.5, PI*1.5+vals[2]);
       }
     }
   }

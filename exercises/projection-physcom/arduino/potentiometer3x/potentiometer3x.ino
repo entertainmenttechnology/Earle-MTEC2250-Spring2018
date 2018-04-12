@@ -13,12 +13,14 @@ void loop() {
   int potY = analogRead(potYpin);
   int potZ = analogRead(potZpin);
 
-  // ~ will act as a signal that the next
-  // piece of serial data are pot values
+  // the terminating character from println
+  // will serve to tell the serial listener (in Processing
+  // or Unity) that the message has ended
   Serial.print(potX);
   Serial.print(",");
   Serial.print(potY);
   Serial.print(",");
-  Serial.print(potZ);
-  Serial.print("/");  // terminating character
+  Serial.println(potZ);
+
+  delay(10);
 }
