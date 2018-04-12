@@ -29,24 +29,24 @@ Wiring:
 
 ## Relevant Work
 
-+ WURM
-+ 
++ ["Interconnection" Projection Mapping](https://vimeo.com/184283369)
++ ["Box" Projection Mapping](https://www.youtube.com/watch?v=lX6JcybgDFo)
++ [WURM](http://graysonearle.com/wurm/)
++ [The Illuminator](http://theilluminator.org/wheelofjustice/)
+	+ [Stomp the Ban 1](https://www.picoku.net/media/1628607378273750372_3213066380)
+	+ [Stomp the Ban 2](https://www.picoku.net/media/1628298497881830367_295652871)
 
-The first half has to be about projection mapping
+## Projection Mapping
 
-Signal flow:
-1. Arduino interpretting analog reading from potentiometer
-2. Arduino sends converted value (byte) over Serial
-3. MAX/MSP (or Processing) reads incoming Serial data
++ What is its purpose?
++ What can it do?
 
-Ideas:
-+ VJing
-	+ strobing / pulsing
-	+ changing colors
-+ Unity
-	+ change speed at which blocks fall
-+ Projection mapping
-	+ Corner pinning
-+ Smart objects~
-	+ Project down onto a space that has a potentiomer, scrolling the pot projects an increasing arc. Or project just above it so that my hand doesn't interrupt
-	+ Live color mixing
+![before projection mapping](projection1_before.jpg)
+![before projection mapping](projection2_after.jpg)
+
++ [Commercial example - Adidas](https://vani.sh/works/adidas/)
++ [Light the Way](https://vimeo.com/139242399)
+
+## Potentiometers as Controllers
+
+
