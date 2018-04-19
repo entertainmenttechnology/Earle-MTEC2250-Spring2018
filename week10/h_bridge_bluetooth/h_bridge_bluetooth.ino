@@ -67,26 +67,5 @@ void loop() {
       M2Forward(motorSpeed);
     }
   }
-
-  // // or automate it
-  //  M1Forward(motorSpeed);
-  //  M2Forward(motorSpeed);
-  //
-  //  delay(500);
-  //
-  //  M1Brake();
-  //  M2Brake();
-  //
-  //  delay(500);
-  //
-  //  M1Backward(motorSpeed);
-  //  M2Backward(motorSpeed);
-  //
-  //  delay(500);
-  //
-  //  M1Brake();
-  //  M2Brake();
-  //
-  //  delay(500);
 }
 
