@@ -19,3 +19,7 @@
 	+ [cardboard automata how-to](https://www.youtube.com/watch?v=4W1dTyUrfZc)
 
 + Read [Making Things Move chapter 8](mtmch8.pdf) for more ideas
+
+## Homework
+
++ Re-design robo-car chassis to fit the DG01D motors
