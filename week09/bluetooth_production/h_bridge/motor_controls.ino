@@ -1,4 +1,4 @@
-void M1Forward(int spd) {
+void M1Backward(int spd) {
   //drive forward at full speed by pulling Motor1_A High
   //and Motor1_B low, while writing a full value to Motor1_PWM to
   //control speed
@@ -7,7 +7,7 @@ void M1Forward(int spd) {
   analogWrite(Motor1_PWM, spd);
 }
 
-void M1Backward(int spd) {
+void M1Forward(int spd) {
   //change direction to reverse by flipping the states
   //of the direction pins from their forward state
   digitalWrite(Motor1_A, LOW);

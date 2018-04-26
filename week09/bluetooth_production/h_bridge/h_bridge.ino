@@ -53,6 +53,7 @@ void loop() {
     if (val == 2) {
       M1Backward(motorSpeed);
       M2Backward(motorSpeed);
+      
     }
 
     // left
