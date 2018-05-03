@@ -7,7 +7,7 @@ void setup() {
 
   // remember to set your serial port...
   printArray(Serial.list());
-  //myPort = new Serial(this, Serial.list()[1], 9600);
+  myPort = new Serial(this, Serial.list()[1], 9600);
 }
 
 void draw() {
@@ -19,8 +19,8 @@ void draw() {
   line(width/2, height/2, mouseX, mouseY);
 
   // INPUTS
-  int     nJoyX = int(map(mouseX, width, 0, -128, 127));
-  int     nJoyY = int(map(mouseY, height, 0, -128, 127));
+  int     nJoyY = int(map(mouseX, width, 0, -128, 127));
+  int     nJoyX = int(map(mouseY, 0, height, -128, 127));
 
   // OUTPUTS
   int     nMotMixL;           // Motor (left)  mixed output           (-128..+127)

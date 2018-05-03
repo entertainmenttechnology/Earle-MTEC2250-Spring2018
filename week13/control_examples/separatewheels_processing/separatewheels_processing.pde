@@ -7,7 +7,7 @@ void setup() {
 
   // remember to set your serial port...
   printArray(Serial.list());
-  //myPort = new Serial(this, Serial.list()[1], 9600);
+  myPort = new Serial(this, Serial.list()[1], 9600);
 }
 
 void draw() {
@@ -18,11 +18,11 @@ void keyPressed() {
 
   if (key == 'w') {
     // left wheel forward
-    myPort.write(1);
+    myPort.write(2);
   }
   if (key == 's') {
     // left wheel backward
-    myPort.write(2);
+    myPort.write(1);
   }
   if (key == CODED) {
     if (keyCode == UP) {
