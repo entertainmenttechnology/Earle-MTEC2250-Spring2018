@@ -55,8 +55,8 @@ PVector motors(float x, float y) {
   left = constrain(left, -5, 5);
   right = constrain(right, -5, 5);
 
-  left = map(left, -5, 5, -127, 128);
-  right = map(right, -5, 5, -127, 128);
+  left = map(left, -5, 5, -127, 127);
+  right = map(right, -5, 5, -127, 127);
 
   //println(left, right);
 
